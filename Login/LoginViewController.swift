@@ -18,7 +18,7 @@ class LoginViewController: UIViewController {
         if (!result){
             printMessage(name: "Incorrect Username or Password!")
         }else{
-            printMessage(name: "Welcome to application!")
+            printMessage(name: "Welcome to application! Hello from VS Code")
         }
     }
     

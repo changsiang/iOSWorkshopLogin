@@ -12,9 +12,9 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LoginViewController" customModule="Login" customModuleProvider="target">
             <connections>
-                <outlet property="textUserId" destination="3Ep-Uc-btd" id="GWs-O1-tIg"/>
+                <outlet property="textPassword" destination="Ctp-ik-wz5" id="BUT-q6-2c9"/>
+                <outlet property="textUserId" destination="3Ep-Uc-btd" id="wpL-Yr-HAq"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
-                <outletCollection property="textPassword" destination="Ctp-ik-wz5" collectionClass="NSMutableArray" id="Y5W-ig-fdC"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
